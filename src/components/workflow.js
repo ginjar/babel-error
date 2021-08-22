@@ -52,7 +52,7 @@ export default class Workflow extends Component {
   // Third
   // Sixth (after update)
   render() {
-    console.log("render");
+      console.log("render");
 
     return (
       <div>
